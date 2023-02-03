@@ -1,6 +1,4 @@
 class Variable {
-  static List history = [];
-  static List bookmark = [];
   static List<Map<String, dynamic>> website = [
     {
       'name': 'Apple',
